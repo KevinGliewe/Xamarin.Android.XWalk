@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XWalk", "XWalk\XWalk.csproj", "{90C13DE9-9FF4-499E-AD91-B04E83321FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XWalk.Binding", "XWalk.Binding\XWalk.Binding.csproj", "{F0C2C819-5775-4A9F-96A6-3EA0C86A6312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C13DE9-9FF4-499E-AD91-B04E83321FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C13DE9-9FF4-499E-AD91-B04E83321FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C13DE9-9FF4-499E-AD91-B04E83321FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C13DE9-9FF4-499E-AD91-B04E83321FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C2C819-5775-4A9F-96A6-3EA0C86A6312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C2C819-5775-4A9F-96A6-3EA0C86A6312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C2C819-5775-4A9F-96A6-3EA0C86A6312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C2C819-5775-4A9F-96A6-3EA0C86A6312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
