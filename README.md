@@ -1,5 +1,7 @@
 # Xamarin.Android Crosswalk Binding
 
+> As of February 2017, Crosswalk is not being developed anymore. The last Crosswalk relase is 23.
+
 An example Project to embed a [Crosswalk](https://crosswalk-project.org/) View into your Android App.
 
 ## Getting Started
